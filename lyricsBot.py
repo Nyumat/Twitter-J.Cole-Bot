@@ -9,7 +9,7 @@ import sys
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger()
-
+# Keys have been changed, @ anyone trying to breach my bot :)
 consumer_key = 'CLp0SD6cooRhlWF2QGlvj4Ajk'
 consumer_secret = 'c0wLYiA1nk7mHRpqRpTIuOYqU8NJGxkFOGRC15Ij0Vd03SscHx'
 access_token = '1301298497715609600-uXS8tISRAufWIDjecDpEqNTCOsivIR'
