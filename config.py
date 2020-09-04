@@ -9,7 +9,7 @@ def create_api():
     consumer_key = os.getenv("***************")
     consumer_secret = os.getenv("************************")
     access_token = os.getenv("******************")
-    access_token_secret = os.getenv("*****************)
+    access_token_secret = os.getenv("*****************")
 
     auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
     auth.set_access_token(access_token,access_token_secret)
