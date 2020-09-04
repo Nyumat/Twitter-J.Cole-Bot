@@ -5,6 +5,7 @@ import os
 logger = logging.getLogger()
 
 def create_api():
+    # Keys have been changed, for anyone trying to breach my bot. - Sorry not sorry :)
     consumer_key = os.getenv("jRKLllEQoGrAqey9zzN30ROS5")
     consumer_secret = os.getenv("3LtXS1IsGFWX8w9YS7my8BSISCkdEDVwv0Uy9Pf3WyhHKcunHu")
     access_token = os.getenv("1301298497715609600-D0AEH9UipG6impn5cFiQUNYVohtr64")
