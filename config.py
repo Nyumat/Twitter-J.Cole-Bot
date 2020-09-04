@@ -6,10 +6,10 @@ logger = logging.getLogger()
 
 def create_api():
     # Keys have been changed, for anyone trying to breach my bot. - Sorry not sorry :)
-    consumer_key = os.getenv("jRKLllEQoGrAqey9zzN30ROS5")
-    consumer_secret = os.getenv("3LtXS1IsGFWX8w9YS7my8BSISCkdEDVwv0Uy9Pf3WyhHKcunHu")
-    access_token = os.getenv("1301298497715609600-D0AEH9UipG6impn5cFiQUNYVohtr64")
-    access_token_secret = os.getenv("A1MsupoLBRz9IKnqAE062n6v0sIYqomBYNUd1WCKTvk94")
+    consumer_key = os.getenv("***************")
+    consumer_secret = os.getenv("************************")
+    access_token = os.getenv("******************")
+    access_token_secret = os.getenv("*****************)
 
     auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
     auth.set_access_token(access_token,access_token_secret)
