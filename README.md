@@ -1,6 +1,8 @@
 
 
 <h1 align="center" style="font-size: 3rem;">The J. Cole Lyric Bot</h1>
+![](https://repl.it/badge/github/Nyumat/Twitter-J.Cole-Bot)
+
 
 <p align="center">This bot is for entertainment purposes, only.</p>
 
