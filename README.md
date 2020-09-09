@@ -34,8 +34,7 @@ To de-activate the enviornment use:
 decativate
 ```
 Once your virtual enviornment is created, clone the repo.
-<img src="img/venv.png" width="294" height="224">
-
+<br><img src="img/venv.png" width="294" height="224"></br>
 # To-Do's:
 
 - [ ] Finish Documentation
