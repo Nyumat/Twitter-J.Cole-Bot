@@ -12,7 +12,7 @@ This bot is a program that incooperates the [Twitter API](https://developer.twit
 
 **To create your own bot instance, the first thing you will need to do is setup your very own virtual enviornment.**
 
-First, make you have the latest version of pip:
+First, make sure you have the latest version of pip installed:
 ```
 pip install --upgrade pip
 ```
