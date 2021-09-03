@@ -5,7 +5,13 @@ import os
 logger = logging.getLogger()
 
 def create_api():
-    # Keys have been changed, for anyone trying to breach my bot. - Sorry not sorry :)
+    """"
+    Apply for developer credentials for the ability to create your own Bot instance!
+    (https://developer.twitter.com/en/apply-for-access) 
+    Then, replace the placeholders with your token below.
+    
+    """
+    
     consumer_key = os.getenv("***************")
     consumer_secret = os.getenv("************************")
     access_token = os.getenv("******************")
