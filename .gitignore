@@ -1,1 +1,4 @@
-twitBot
+.env
+__pycache__
+.venv
+.vscode
